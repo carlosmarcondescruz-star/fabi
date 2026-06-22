@@ -1,12 +1,30 @@
 body{
-    background-color: rgb(214, 105, 105);
+    background-color: rgb(233, 173, 173);
     text-align: center;
+     background-image: url("transferir\ \(1\).png"); /*imagem de fundo do site*/
+    /*background-color: rgb(183, 230, 214);*/
 }
 
 h1{
     font-style: italic;
+    color: rgb(255, 255, 255);
 }
 
-.Fabi{
-    width: 100;
+img {
+    width: 300px;
+}
+
+p {
+    color: rgb(236, 228, 228);
+    font-weight: 600;
+} 
+strong {
+    color: rgb(60, 0, 116);
+}
+h2{
+    color: rgb(255, 255, 255);
+} 
+
+img{
+    width: 400px;
 }
